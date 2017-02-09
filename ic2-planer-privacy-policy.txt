@@ -10,4 +10,5 @@ party internet-base services.
 
 Consequently, IC2 Planner is using camera and device
 storage only to store and process
-reactor schemes locally. User can share schemes via other social application and can fully control sharing data.
+reactor schemes locally. User can share schemes via 
+other social application and can fully control sharing data.

@@ -4,7 +4,7 @@ In order to protect your privacy, IC2 Planner does NOT
 collect personal data or transmit them, not even in
 anonymized form, to anyone.
 
-Nevertheless, IC2 Planner is NOT able to automatically or manually
+IC2 Planner is NOT able to automatically or manually
 retrieve information about user device from the third
 party internet-based services.
 

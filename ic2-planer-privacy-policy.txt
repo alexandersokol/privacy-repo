@@ -4,11 +4,11 @@ In order to protect your privacy, IC2 Planner does NOT
 collect personal data or transmit them, not even in
 anonymized form, to anyone.
 
-Nevertheless, IC2 Planner is able to automatically
-retrieve information about user device from third
-party internet-base services.
+Nevertheless, IC2 Planner is NOT able to automatically or manually
+retrieve information about user device from the third
+party internet-based services.
 
 Consequently, IC2 Planner is using camera and device
 storage only to store and process
-reactor schemes locally. User can share schemes via 
-other social application and can fully control sharing data.
+reactor schemes locally. Users can share schemes via other social
+ applications and can fully control sharing data.
